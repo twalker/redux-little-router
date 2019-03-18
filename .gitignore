@@ -14,6 +14,6 @@ jmeter.log
 config/local*
 
 # Build
-lib
+# lib
 coverage
 .nyc_output
