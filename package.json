@@ -47,12 +47,12 @@
   },
   "homepage": "https://github.com/FormidableLabs/redux-little-router#readme",
   "dependencies": {
-    "history": "^4.6.1",
-    "lodash.assign": "^4.2.0",
-    "prop-types": "^15.5.8",
-    "query-string": "^5.0.1",
-    "recompose": "^0.26.0",
-    "url-pattern": "^1.0.3"
+    "history": "4.6.1",
+    "lodash.assign": "4.2.0",
+    "prop-types": "15.5.8",
+    "query-string": "5.0.1",
+    "recompose": "0.26.0",
+    "url-pattern": "1.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
